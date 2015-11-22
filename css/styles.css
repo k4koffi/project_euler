@@ -1,0 +1,67 @@
+@import url(http://reset5.googlecode.com/hg/reset.min.css);
+
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height: 1.4em;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 1200px;
+	margin: 0px auto;
+	background-color: #ffffff;	
+	height: 420px;
+}
+
+header {
+	height: 40px;
+	width: 100%;
+	font-size: large;
+	margin-top: 100px;
+}
+
+h1 {
+	font-size: large;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+
+.content {
+	margin: 0 auto;
+	width: 1176px;
+	height: 362px;
+	border: 2px solid black;
+	clear:both; 
+
+}
+
+
+.group {
+	width: 370px;
+	float: left;
+	height: 360px;
+	clear: right;
+	padding: 0 10px;
+	border: 1px black solid;
+
+}
+
+.group p {
+	margin-bottom: 20px;
+}
+
+.group h3 {
+	margin: 10px 0;
+	border-bottom: 1px gray solid;
+	padding: 5px;
+}
+
+
+
+.answer {
+	margin-top: 20px;
+	text-align: center;
+	font-size: x-large;
+    padding: 10px 0;
+}
